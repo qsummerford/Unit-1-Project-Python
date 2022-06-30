@@ -1,6 +1,6 @@
 # Unit-1-Project-Python
 
-## This is a group project.
+This is a group project.
 
 ## Description and Motivation:
 We are making a RPG using the knowledge we gained from the Explorer and Turned-Based Health Depleter games. The game is set in a guantlet that you are trying to escape. This game combines a lot, if not more, of the things we already learned.  
